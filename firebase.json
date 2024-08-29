@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "firstpage-dhk625",		  
     "public": "docs",
     "ignore": [
       "firebase.json",
